@@ -36,6 +36,7 @@ Features:
   •To stop the program, use the Task Manager to close it.
 
 Benefits:
-  •No need for key combinations or switching between windows to pause or resume videos.
 
-  •The program operates seamlessly in the background once launched.
+        •No need for key combinations or switching between windows to pause or resume videos.
+
+        •The program operates seamlessly in the background once launched.
